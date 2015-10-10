@@ -1,0 +1,28 @@
+h1 {
+	font-family: cursive;
+	margin: -10px 0 -20px -10px;
+  	font-size: 1.75em;
+  	font-weight: bold;
+	background-color: #C00000;
+	color: #FFF8DC;
+	text-align: center;
+	padding: 17px;
+	/*line-height: 8em; HAS SAME EFFECT AS PADDING*/
+}
+
+h3 {
+	font-family: cursive;
+	background-color: #FFF8DC;
+	color: #C00000;
+	line-height: 2em;
+	text-align: center;
+	margin-left: -10px;
+}
+
+ul {
+	list-style: none;
+}
+
+section {
+	text-align: center;
+}
